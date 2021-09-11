@@ -1,0 +1,41 @@
+<!DOCTYPE HTML>
+
+<html>
+	<head>
+		<title>Sample site</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body>
+
+		<!-- Header -->
+			<header id="header">
+				<div class="logo"><a href="#">Welcome to our site</a></div>
+			</header>
+
+		<!-- Main -->
+			<section id="main">
+				<div class="inner">
+					<section id="one" class="wrapper style1">
+						<div class="image fit flush">
+							<img src="images/pic02.jpg" alt="" />
+						</div>
+						<header class="special">
+							<h2>Lorem Ipsum</h2>
+							<p>Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...</p>
+						</header>
+						<div class="content">
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus consequat eu odio ac tristique. Mauris sollicitudin sem et leo porttitor viverra. Nulla sed condimentum odio, quis fermentum urna. Ut vehicula pharetra velit a euismod. Fusce id lacus et velit posuere tincidunt. Morbi non tellus non odio laoreet porttitor quis malesuada velit. Vestibulum lacinia velit at elementum aliquam. Ut blandit faucibus odio.</p>
+							<p>Fusce sit amet venenatis augue, volutpat ultrices metus. Vestibulum et pharetra elit. Duis aliquet ultrices finibus. Nulla quis dignissim odio. Vestibulum et turpis quis risus efficitur mattis. Fusce fringilla ac arcu ut vestibulum. Integer varius molestie erat, in molestie leo. Donec in blandit sapien.</p>
+						</div>
+					</section>
+				</div>
+			</section>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+
+
+	</body>
+</html>
