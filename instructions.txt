@@ -1,1 +1,1 @@
-stuff
+instructions for adding this site to the server
