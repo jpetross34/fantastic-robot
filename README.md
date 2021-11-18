@@ -1,1 +1,3 @@
 Code Louisville Project
+I originally set out to make something akin to an author's page. Unfortunately, the more that I thought about it, the less I liked the idea. In the end, I made a page that some friends and I had been talking about for a while.
+One of the biggest problems I had was making the "About our Creators" section respond correctly. It wasn't until I went to the website: https://flexboxfroggy.com/ that I was able to figure out what I was doing wrong. Now the section should be a column on mobile devices, and when it goes to a larger device, I think i was able to make it so that it's three rows of 2 columns.
