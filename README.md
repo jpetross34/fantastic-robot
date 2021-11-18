@@ -1,3 +1,9 @@
 Code Louisville Project
 I originally set out to make something akin to an author's page. Unfortunately, the more that I thought about it, the less I liked the idea. In the end, I made a page that some friends and I had been talking about for a while.
-One of the biggest problems I had was making the "About our Creators" section respond correctly. It wasn't until I went to the website: https://flexboxfroggy.com/ that I was able to figure out what I was doing wrong. Now the section should be a column on mobile devices, and when it goes to a larger device, I think i was able to make it so that it's three rows of 2 columns.
+As for the requirements, I have included the following:
+CSS
+-the ":nth-child" occurs several times throughout the css.
+-I managed to do some interesting things using Flexbox. (i.e., in the "about our creators" section i was able to make it into three rows with two columns when in the larger screen. I also managed to make the "Gaming" section into a row on larger screens, and into a column on a small screen)
+I made the words "THE INDUBLY"---bounce.
+JAVASCRIPT
+-I created a hamburger menu for the top menu. 

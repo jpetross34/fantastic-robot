@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<link rel="stylesheet" href="assets/assets/styles.css">
+
+<html>
+
+<head>
+
+</head>
+
+<body>
+    <h1>Contact the Indubly</h1>
+    <input type="text" placeholder="Enter your last name" id="lastName" />
+    <br><br>
+    <input type="text" placeholder="Enter your first name" id="firstName" />
+    <input type="email" placeholder="Enter your email" id="email" />
+    <input type="text" placeholder="Address" id="address" />
+       
+    <select id="country">
+        <option disabled selected value> -- select a country -- </option>
+        <option value="Narnia">Narnia</option>
+        <option value="Neverland">Neverland</option>
+        <option value="Vulcan">Vulcan</option>
+        <option disabled selected value> -- select a country -- </option>
+    </select>
+    <br><br>
+<input type="checkbox" id="newsletter" />Send me monthly newsletter
+<br><br>
+<span>What do you want to know?</span>
+<br>
+<textarea id="question" rows="10"></textarea>
+<br><br>
+<button onclick="sendContact();">Send contact</button>
+</body>
+<script src="assets/assets/query.js"></script>
+</html>
